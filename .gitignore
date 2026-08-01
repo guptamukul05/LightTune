@@ -213,7 +213,7 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
+s
 # Streamlit
 .streamlit/secrets.toml
 
@@ -225,3 +225,5 @@ logs/
 .env
 *.log
 .DS_Store
+exports/
+data/
